@@ -31,6 +31,7 @@ The `creditcard.csv` dataset is utilized in this project. It consists of various
 ## Implementation Steps <a name="implementation-steps"></a>
 ### Data Loading and Exploration <a name="data-loading-and-exploration"></a>
    The dataset is loaded, and initial exploration is performed to understand the data structure and content.
+   Data Scource : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
 ### Data Pre-processing <a name="data-pre-processing"></a>
    Any rows with 'NaN' values in the 'Class' column are dropped to maintain data integrity.
